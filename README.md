@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/abdelrahman-qasim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdel7g@gmail.com">
+  <a href="mailto:abdel8g@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abdelqasim&style=for-the-badge&color=4F8EF7&label=PROFILE+VIEWS" />
