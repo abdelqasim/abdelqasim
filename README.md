@@ -21,7 +21,7 @@
 I build AI systems that work in production — from LLM agents and RAG pipelines to real-time computer vision and trading signal models.
 
 - 🎓 AI Engineering graduate — Bahçeşehir University
-- 🌍 Targeting Netherlands / Amsterdam
+- 🌍 Targeting Netherlands / Amsterdam , Istanbul / Türkiye
 - 🏢 AI Engineer Intern @ ROVR (Zurich, 2025–2026) — LLM pipelines & recruiting automation
 - 🔭 Current focus: LLM agents, retrieval-augmented generation, MLOps
 - 🤝 Open to collaborating on meaningful AI projects
